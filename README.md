@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>audi' Portfolio</title>
+    <title> audi' Portfolio</title>
     <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
     
     <style>
@@ -143,7 +143,7 @@
 <body>
     <div class="sidebar">
         <div class="profile">
-           <img src="https://raw.githubusercontent.com/audi/Online-Portfolio-with-CSS-Styling/main/picture.png" alt="Socks' Profile">
+           <img src="https://raw.githubusercontent.com/audi/Online-Portfolio-with-CSS-Styling/main/picture.png" alt="RAFF' Profile">
             <div class="username">@socks</div>
         </div>
         <nav>
