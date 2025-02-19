@@ -157,7 +157,7 @@
 
     <div class="main-content">
         <header>
-            <h1>Welcome to Socks' Portfolio</h1>
+            <h1>Welcome to RAFF' Portfolio</h1>
         </header>
 
         <section id="about" class="card">
