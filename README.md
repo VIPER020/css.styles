@@ -144,7 +144,7 @@
     <div class="sidebar">
         <div class="profile">
            <img src="https://raw.githubusercontent.com/audi/Online-Portfolio-with-CSS-Styling/main/picture.png" alt="RAFF' Profile">
-            <div class="username">@socks</div>
+            <div class="username">@RAFF</div>
         </div>
         <nav>
             <ul>
